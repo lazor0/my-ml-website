@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Legends Hero Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <img class="logo" src="/img/logo.png" alt="logo MLBB">
+            <h1>Mobile Legends Heroes Gallery</h1>
+        </div>
+        <div class="header-right">
+            <select id="role-select">
+                <option value="all">All Role</option>
+                <option value="tank">Tank</option>
+                <option value="fighter">Fighter</option>
+                <option value="assassin">Assassin</option>
+                <option value="mage">Mage</option>
+                <option value="marksman">Marksman</option>
+                <option value="support">Support</option>
+            </select>
+            <input type="text" id="search-hero" placeholder="Search Hero" aria-label="Search Hero">
+        </div>
+    </header>
+
+    <div class="main-content">
+        <div id="hero-gallery">
+            <!-- hero akan dimasukkan disini -->
+        </div>    
+    </div>
+
+    <footer>
+        <p>&copy: 2024 Mobile Legends Heroes Gallery</p>
+    </footer>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <img id="modal-hero-image" src="" alt="" class="modal-hero-image">
+            <h2 id="modal-hero-name"></h2>
+            <p>Counters:</p>
+            <div id="modal-hero-counters" class="hero-counters"></div>
+        </div>
+    </div>
+
+    <script src="scripts.js">
+        window.addEventListener('load', function() {
+            document.body.style.backgroundImage = "url('images/background.jpg')"
+        })
+    </script>
+</body>
+</html>

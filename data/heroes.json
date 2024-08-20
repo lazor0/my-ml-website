@@ -1,0 +1,1341 @@
+{
+    "heroes": [
+        {
+            "name": "Aulus",
+            "role": ["fighter"],
+            "image": "aulus.jfif",
+            "counters": [
+                {"name": "Faramis", "image": "faramis.jfif"},
+                {"name": "Sun", "image": "sun.jfif"},
+                {"name": "Aldous", "image": "aldous.jfif"},
+                {"name": "Lancelot", "image": "lancelot.jfif"}
+            ]
+        },
+        {
+            "name": "Phoveus",
+            "role": ["fighter"],
+            "image": "phoveus.jfif",
+            "counters": [
+                {"name": "Khaleed", "image": "khaleed.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Valentine", "image": "valentina.jfif"},
+                {"name": "Benedetta", "image": "benedetta.jfif"}
+            ]
+        },
+        {
+            "name": "Silvanna",
+            "role": ["fighter"],
+            "image": "silvanna.jfif",
+            "counters": [
+                {"name": "Sun", "image": "sun.jfif"},
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Aamon", "image": "aamon.jfif"},
+                {"name": "Zilong", "image": "zilong.jfif"}
+            ]
+        },
+        {
+            "name": "Nolan",
+            "role": ["assassin"],
+            "image": "nolan.jfif",
+            "counters": [
+                {"name": "Hanzo", "image": "hanzo.jfif"},
+                {"name": "Aulus", "image": "aulus.jfif"},
+                {"name": "Rafaela", "image": "rafaela.jfif"},
+                {"name": "Atlas", "image": "atlas.jfif"}
+            ]
+        },
+        {
+            "name": "Yin",
+            "role": ["assassin", "fighter"],
+            "image": "yin.jfif",
+            "counters": [
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Martis", "image": "martis.jfif"},
+                {"name": "Kaja", "image": "kaja.jfif"},
+                {"name": "Esmeralda", "image": "esmeralda.jfif"}
+            ]
+        },
+        {
+            "name": "Helcurt",
+            "role": ["assassin"],
+            "image": "helcurt.jfif",
+            "counters": [
+                {"name": "Karina", "image": "karina.jfif"},
+                {"name": "Chip", "image": "chip.jfif"},
+                {"name": "Brody", "image": "brody.jfif"},
+                {"name": "Joy", "image": "joy.jfif"}
+            ]
+        },
+        {
+            "name": "Lancelot",
+            "role": ["assassin"],
+            "image": "lancelot.jfif",
+            "counters": [
+                {"name": "Aulus", "image": "aulus.jfif"},
+                {"name": "Saber", "image": "saber.jfif"},
+                {"name": "Alucard", "image": "alucard.jfif"},
+                {"name": "Faramis", "image": "faramis.jfif"}
+            ]
+        },
+        {
+            "name": "Fanny",
+            "role": ["assassin"],
+            "image": "fanny.jfif",
+            "counters": [
+                {"name": "Zilong", "image": "zilong.jfif"},
+                {"name": "Franco", "image": "franco.jfif"},
+                {"name": "Saber", "image": "saber.jfif"},
+                {"name": "Cyclops", "image": "cyclops.jfif"}
+            ]
+        },
+        {
+            "name": "Karina",
+            "role": ["assassin"],
+            "image": "karina.jfif",
+            "counters": [
+                {"name": "Brody", "image": "brody.jfif"},
+                {"name": "Melissa", "image": "melissa.jfif"},
+                {"name": "Odette", "image": "odette.jfif"},
+                {"name": "Clint", "image": "clint.jfif"}
+            ]
+        },
+        {
+            "name": "harley",
+            "role": ["mage", "assassin"],
+            "image": "harley.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Zhuxin",
+            "role": ["mage"],
+            "image": "zhuxin.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Julian",
+            "role": ["mage", "fighter"],
+            "image": "julian.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Xavier",
+            "role": ["mage"],
+            "image": "xavier.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Lylia",
+            "role": ["mage"],
+            "image": "lylia.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Aurora",
+            "role": ["mage"],
+            "image": "aurora.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Cyclops",
+            "role": ["mage"],
+            "image": "cyclops.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Kimmy",
+            "role": ["marksman", "mage"],
+            "image": "kimmy.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Irithel",
+            "role": ["marksman"],
+            "image": "irithel.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Mathilda",
+            "role": ["support", "assassin"],
+            "image": "mathilda.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Kaja",
+            "role": ["support", "fighter"],
+            "image": "kaja.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Diggie",
+            "role": ["support"],
+            "image": "diggie.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Selena",
+            "role": ["mage", "assassin"],
+            "image": "selena.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Yve",
+            "role": ["mage"],
+            "image": "yve.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Valir",
+            "role": ["mage"],
+            "image": "valir.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Pharsa",
+            "role": ["mage"],
+            "image": "pharsa.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Paquito",
+            "role": ["fighter", "assassin"],
+            "image": "paquito.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Natalia",
+            "role": ["assassin"],
+            "image": "natalia.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Nana",
+            "role": ["mage"],
+            "image": "nana.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Ling",
+            "role": ["assassin"],
+            "image": "ling.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Karrie",
+            "role": ["marksman"],
+            "image": "karrie.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Ixia",
+            "role": ["marksman"],
+            "image": "ixia.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Gord",
+            "role": ["mage"],
+            "image": "gord.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Gatot Kaca",
+            "role": ["tank", "fighter"],
+            "image": "gatotkaca.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Clint",
+            "role": ["marksman"],
+            "image": "clint.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Cici",
+            "role": ["fighter"],
+            "image": "cici.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Benedetta",
+            "role": ["assassin", "fighter"],
+            "image": "benedetta.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Aamon",
+            "role": ["assassin"],
+            "image": "aamon.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Chip",
+            "role": ["tank", "support"],
+            "image": "chip.jfif",
+            "counters": [
+                {"name": "Lolita", "image": "lolita.jfif"},
+                {"name": "Arlott", "image": "arlott.jfif"},
+                {"name": "Diggie", "image": "diggie.jfif"},
+                {"name": "Valentine", "image": "valentina.jfif"},
+                {"name": "Zilong", "image": "zilong.jfif"}
+            ]
+        },
+        {
+            "name": "Fredrinn",
+            "role": ["tank", "fighter"],
+            "image": "fredrinn.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Edith",
+            "role": ["tank", "marksman"],
+            "image": "edith.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Gloo",
+            "role": ["tank"],
+            "image": "gloo.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Barats",
+            "role": ["tank", "fighter"],
+            "image": "barats.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Atlas",
+            "role": ["tank"],
+            "image": "atlas.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Akai",
+            "role": ["tank"],
+            "image": "akai.jfif",
+            "counters": [
+                {"name": "Masha", "image": "masha.jfif"},
+                {"name": "Eudora", "image": "eudora.jfif"},
+                {"name": "Silvana", "image": "lesley.jfif"},
+                {"name": "Diggie", "image": "cecilion.jfif"},
+                {"name": "Guinevere", "image": "guinevere.jfif"}
+            ]
+        },
+        {
+            "name": "Masha",
+            "role": ["tank", "fighter"],
+            "image": "masha.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Esmeralda",
+            "role": ["tank", "mage"],
+            "image": "esmeralda.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Carmilla",
+            "role": ["support", "tank"],
+            "image": "carmilla.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Johnson",
+            "role": ["tank", "support"],
+            "image": "johnson.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Terizla",
+            "role": ["fighter", "tank"],
+            "image": "terizla.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Alice",
+            "role": ["tank", "mage"], 
+            "image": "alice.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Wanwan", "image": "wanwan.jfif"},
+                {"name": "Lesley", "image": "lesley.jfif"},
+                {"name": "Cecilion", "image": "cecilion.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Uranus",
+            "role": ["tank"],
+            "image": "uranus.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Tigreal",
+            "role": ["tank"],
+            "image": "tigreal.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Saber",
+            "role": ["assassin"],
+            "image": "saber.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Minotaur",
+            "role": ["tank", "support"],
+            "image": "minotaur.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Khufra",
+            "role": ["tank"],
+            "image": "khufra.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Lolita",
+            "role": ["tank", "support"],
+            "image": "lolita.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Hylos",
+            "role": ["tank"],
+            "image": "hylos.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Grock",
+            "role": ["tank", "fighter"],
+            "image": "grock.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Belerick",
+            "role": ["tank"],
+            "image": "belerick.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Baxia",
+            "role": ["tank"],
+            "image": "baxia.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Zilong",
+            "role": ["assassin", "fighter"],
+            "image": "zilong.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Thamuz",
+            "role": ["fighter"],
+            "image": "thamuz.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Sun",
+            "role": ["fighter"],
+            "image": "sun.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Martis",
+            "role": ["fighter"],
+            "image": "martis.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Lapu-lapu",
+            "role": ["fighter"],
+            "image": "lapu.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Freya",
+            "role": ["fighter"],
+            "image": "freya.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Balmond",
+            "role": ["fighter"],
+            "image": "balmond.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Bane",
+            "role": ["fighter", "mage"],
+            "image": "bane.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Badang",
+            "role": ["fighter"],
+            "image": "badang.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Alpha",
+            "role": ["fighter"],
+            "image": "alpha.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Aldous",
+            "role": ["fighter"],
+            "image": "aldous.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Alucard",
+            "role": ["fighter", "assassin"],
+            "image": "alucard.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Angela",
+            "role": ["support"],
+            "image": "angela.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Argus",
+            "role": ["fighter"],
+            "image": "argus.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Arlott",
+            "role": ["fighter", "assassin"],
+            "image": "arlott.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Beatrix",
+            "role": ["marksman"],
+            "image": "beatrix.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Brody",
+            "role": ["marksman"],
+            "image": "brody.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Bruno",
+            "role": ["marksman"],
+            "image": "bruno.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Cecilion",
+            "role": ["mage"],
+            "image": "cecilion.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Chang'e",
+            "role": ["mage"],
+            "image": "change.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Chou",
+            "role": ["fighter"],
+            "image": "chou.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Claude",
+            "role": ["marksman"],
+            "image": "claude.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Dyrroth",
+            "role": ["fighter"],
+            "image": "dyrroth.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Estes",
+            "role": ["support"],
+            "image": "estes.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Eudora",
+            "role": ["mage"],
+            "image": "eudora.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Faramis",
+            "role": ["support", "mage"],
+            "image": "faramis.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Floryn",
+            "role": ["support"],
+            "image": "floryn.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Franco",
+            "role": ["tank"],
+            "image": "franco.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Granger",
+            "role": ["marksman"],
+            "image": "granger.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Guinevere",
+            "role": ["fighter"],
+            "image": "guinevere.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Gusion",
+            "role": ["assassin"],
+            "image": "gusion.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Hanabi",
+            "role": ["marksman"],
+            "image": "hanabi.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Hanzo",
+            "role": ["assassin"],
+            "image": "hanzo.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Harith",
+            "role": ["mage"],
+            "image": "harith.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Hayabusa",
+            "role": ["assassin"],
+            "image": "hayabusa.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Hilda",
+            "role": ["fighter", "tank"],
+            "image": "hilda.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Jawhead",
+            "role": ["fighter"],
+            "image": "jawhead.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Joy",
+            "role": ["mage", "assassin"],
+            "image": "joy.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Kadita",
+            "role": ["mage", "assassin"],
+            "image": "kadita.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Kagura",
+            "role": ["mage"],
+            "image": "kagura.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Khaleed",
+            "role": ["fighter"],
+            "image": "khaleed.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Layla",
+            "role": ["marksman"],
+            "image": "layla.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Leomord",
+            "role": ["fighter"],
+            "image": "leomord.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Lesley",
+            "role": ["marksman", "assassin"],
+            "image": "lesley.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Lunox",
+            "role": ["mage"],
+            "image": "lunox.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Luo Yi",
+            "role": ["mage"],
+            "image": "luo yi.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Melissa",
+            "role": ["marksman"],
+            "image": "melissa.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Minsitthar",
+            "role": ["fighter"],
+            "image": "minsitthar.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Miya",
+            "role": ["marksman"],
+            "image": "miya.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Moskov",
+            "role": ["marksman"],
+            "image": "moskov.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Natan",
+            "role": ["marksman"],
+            "image": "natan.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Novaria",
+            "role": ["mage"],
+            "image": "novaria.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Odette",
+            "role": ["mage"],
+            "image": "odette.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Popol and Kupa",
+            "role": ["marksman"],
+            "image": "popol and kupa.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Rafaela",
+            "role": ["support"],
+            "image": "rafaela.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Roger",
+            "role": ["marksman", "fighter"],
+            "image": "roger.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Ruby",
+            "role": ["fighter"],
+            "image": "ruby.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Vale",
+            "role": ["mage"],
+            "image": "vale.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Valentine",
+            "role": ["mage"],
+            "image": "valentina.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Vexana",
+            "role": ["mage"],
+            "image": "vexana.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Wanwan",
+            "role": ["marksman"],
+            "image": "wanwan.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "X-Borg",
+            "role": ["fighter"],
+            "image": "x-borg.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Yi Sun-Shin",
+            "role": ["assassin", "marksman"],
+            "image": "yi sun-shin.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Yu Zhong",
+            "role": ["fighter"],
+            "image": "yu zhong.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        },
+        {
+            "name": "Zhask",
+            "role": ["mage"],
+            "image": "zhask.jfif",
+            "counters": [
+                {"name": "Angela", "image": "angela.jfif"},
+                {"name": "Chang'e", "image": "change.jfif"},
+                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+            ]
+        }
+    ]
+}
