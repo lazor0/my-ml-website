@@ -18,7 +18,7 @@
             "counters": [
                 {"name": "Khaleed", "image": "khaleed.jfif"},
                 {"name": "Wanwan", "image": "wanwan.jfif"},
-                {"name": "Valentine", "image": "valentina.jfif"},
+                {"name": "Valentina", "image": "valentina.jfif"},
                 {"name": "Benedetta", "image": "benedetta.jfif"}
             ]
         },
@@ -38,10 +38,10 @@
             "role": ["assassin"],
             "image": "nolan.jfif",
             "counters": [
-                {"name": "Hanzo", "image": "hanzo.jfif"},
-                {"name": "Aulus", "image": "aulus.jfif"},
-                {"name": "Rafaela", "image": "rafaela.jfif"},
-                {"name": "Atlas", "image": "atlas.jfif"}
+                {"name": "Saber", "image": "saber.jfif"},
+                {"name": "Natalia", "image": "natalia.jfif"},
+                {"name": "Hayabusa", "image": "hayabusa.jfif"},
+                {"name": "Arlott", "image": "arlott.jfif"}
             ]
         },
         {
@@ -116,11 +116,10 @@
             "role": ["mage"],
             "image": "zhuxin.jfif",
             "counters": [
-                {"name": "Angela", "image": "angela.jfif"},
-                {"name": "Wanwan", "image": "wanwan.jfif"},
-                {"name": "Lesley", "image": "lesley.jfif"},
-                {"name": "Cecilion", "image": "cecilion.jfif"},
-                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+                {"name": "Zhask", "image": "zhask.jfif"},
+                {"name": "Diggie", "image": "diggie.jfif"},
+                {"name": "Hayabusa", "image": "hayabusa.jfif"},
+                {"name": "Fanny", "image": "fanny.jfif"}
             ]
         },
         {
@@ -404,11 +403,10 @@
             "role": ["fighter"],
             "image": "cici.jfif",
             "counters": [
-                {"name": "Angela", "image": "angela.jfif"},
-                {"name": "Wanwan", "image": "wanwan.jfif"},
-                {"name": "Lesley", "image": "lesley.jfif"},
-                {"name": "Cecilion", "image": "cecilion.jfif"},
-                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+                {"name": "Estes", "image": "estes.jfif"},
+                {"name": "Aamon", "image": "aamon.jfif"},
+                {"name": "Masha", "image": "masha.jfif"},
+                {"name": "Odette", "image": "odette.jfif"}
             ]
         },
         {
@@ -431,7 +429,6 @@
                 {"name": "Angela", "image": "angela.jfif"},
                 {"name": "Wanwan", "image": "wanwan.jfif"},
                 {"name": "Lesley", "image": "lesley.jfif"},
-                {"name": "Cecilion", "image": "cecilion.jfif"},
                 {"name": "Fredrinn", "image": "fredrinn.jfif"}
             ]
         },
@@ -440,11 +437,10 @@
             "role": ["tank", "support"],
             "image": "chip.jfif",
             "counters": [
-                {"name": "Lolita", "image": "lolita.jfif"},
-                {"name": "Arlott", "image": "arlott.jfif"},
-                {"name": "Diggie", "image": "diggie.jfif"},
-                {"name": "Valentine", "image": "valentina.jfif"},
-                {"name": "Zilong", "image": "zilong.jfif"}
+                {"name": "Alice", "image": "alice.jfif"},
+                {"name": "Gloo", "image": "gloo.jfif"},
+                {"name": "Floryn", "image": "floryn.jfif"},
+                {"name": "Lylia", "image": "lylia.jfif"}
             ]
         },
         {
@@ -452,9 +448,10 @@
             "role": ["tank", "fighter"],
             "image": "fredrinn.jfif",
             "counters": [
-                {"name": "Angela", "image": "angela.jfif"},
-                {"name": "Chang'e", "image": "change.jfif"},
-                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+                {"name": "Yve", "image": "yve.jfif"},
+                {"name": "Valir", "image": "valir.jfif"},
+                {"name": "Gord", "image": "gord.jfif"},
+                {"name": "Hanzo", "image": "hanzo.jfif"}
             ]
         },
         {
@@ -832,9 +829,10 @@
             "role": ["fighter", "assassin"],
             "image": "arlott.jfif",
             "counters": [
-                {"name": "Angela", "image": "angela.jfif"},
-                {"name": "Chang'e", "image": "change.jfif"},
-                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+                {"name": "Fredrinn", "image": "fredrinn.jfif"},
+                {"name": "Argus", "image": "argus.jfif"},
+                {"name": "Phoveus", "image": "phoveus.jfif"},
+                {"name": "Gloo", "image": "gloo.jfif"}
             ]
         },
         {
@@ -1062,9 +1060,10 @@
             "role": ["mage", "assassin"],
             "image": "joy.jfif",
             "counters": [
-                {"name": "Angela", "image": "angela.jfif"},
-                {"name": "Chang'e", "image": "change.jfif"},
-                {"name": "Fredrinn", "image": "fredrinn.jfif"}
+                {"name": "Alice", "image": "angela.jfif"},
+                {"name": "Cyclops", "image": "change.jfif"},
+                {"name": "Valentina", "image": "change.jfif"},
+                {"name": "Lunox", "image": "fredrinn.jfif"}
             ]
         },
         {
@@ -1268,7 +1267,7 @@
             ]
         },
         {
-            "name": "Valentine",
+            "name": "Valentina",
             "role": ["mage"],
             "image": "valentina.jfif",
             "counters": [
